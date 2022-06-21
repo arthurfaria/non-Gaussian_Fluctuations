@@ -1,6 +1,6 @@
 # Generalized master equation:
 
-This is a repository provides a code for a generalized master equation due to a athermal bath
+This is a repository provides a code in `Python` for a generalized master equation due to a athermal bath
 
 ## Repository content
 
