@@ -1,4 +1,4 @@
-Brief files description:
+# Repo description:
 
 1. Generalized_FP.py
 	- Non-Gaussian generalized Fokker-Planck (GenBM) equation (see 'gener_FP.pdf' file for further infos). Both the generalized semiclassical distriubtion (GenBM_rho) 
