@@ -4,7 +4,7 @@ This is a repository provides a code in `Python` for a generalized master equati
 
 ## Repository content
 
-1. Generalized_FP.py
+1. Generalized_FP.ipynb
 	- Non-Gaussian generalized Fokker-Planck (GenBM) equation (see 'gener_FP.pdf' file for further infos). Both the generalized semiclassical distriubtion (GenBM_rho) and the distribution of a standard Brownian motion (BM_rho) are obatined considering a external harmonic potential. Algorithm based on finite diference approach to compute derivatives.
 	
 References:
