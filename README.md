@@ -1,8 +1,8 @@
 # Generalized master equation:
 
 This is a repository provides codes in `Python` to compute:
-* The steady-state of generalized quantum master equation due to Gaussian + non-Gaussian noises: overdamped DLD model [1]
-* Entropy production for a Brownian particle subject to a Gaussian and Poisson noises.
+* The steady-state of generalized quantum master equation due to Gaussian + non-Gaussian noises: overdamped DLD model [1].
+* The fluctuation theorem for the Entropy production of a Brownian particle subject to a Gaussian and Poisson noises [2].
 
 ## Repository content
 
@@ -15,4 +15,5 @@ This is a repository provides codes in `Python` to compute:
 References:
 
 [1] 
+
 [2]
