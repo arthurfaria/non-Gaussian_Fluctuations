@@ -1,10 +1,10 @@
-# FT and steady state for a Gaussian + non-Gaussian dynamics
+## FT and steady state for a Gaussian + non-Gaussian dynamics
 
 This is a repository provides codes in `Python` to compute:
 * The steady-state of generalized quantum master equation due to Gaussian + non-Gaussian noises: overdamped DLD model [1].
 * The fluctuation theorem for the Entropy production of a Brownian particle subject to a Gaussian and Poisson noises [2].
 
-## Repository content
+### Repository content
 
 1. generalized_FP.ipynb
 	- The steady state of the overdamped DLD model and the equilibrium distribution of a standard Brownian motion are obatined considering a external harmonic potential. Algorithm based on finite diference approach to compute derivatives.
