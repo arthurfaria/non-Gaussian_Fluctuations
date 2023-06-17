@@ -1,4 +1,4 @@
-# Generalized master equation:
+# FT and steady state for a Gaussian + non-Gaussian dynamics
 
 This is a repository provides codes in `Python` to compute:
 * The steady-state of generalized quantum master equation due to Gaussian + non-Gaussian noises: overdamped DLD model [1].
