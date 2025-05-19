@@ -7,10 +7,10 @@ This is a repository provides codes in `Python` to compute:
 ### Repository content
 
 1. generalized_FP.ipynb
-	- The steady state of the overdamped DLD model and the equilibrium distribution of a standard Brownian motion are obatined considering a external harmonic potential. Algorithm based on finite diference approach to compute derivatives.
+	- We show that in the overdamped regime the position distribution obeys a classical Kramers-Moyal equation that involves an infinite number of higher derivatives, implying that the finite bath correlation length leads to non-Gaussian Markovian noise. We analytically solve the equation for a harmonically bound particle and analyze its non-Gaussian diffusion as well as its steady-state properties. Algorithm based on finite diference approach to compute derivatives.
 
 2. EP_FT_non-Gaussian_noise.ipynb
-	- csdc
+	- Detailed and integral fluctuation relations for the nonequilibrium entropy production of these Markov processes in the regime of weak noise. As an application, we analyze the properties of driven objects that are locally coupled to a heat bath via a finite-range interaction, by considering an overdamped particle that is pulled by a moving harmonic potential. Algorithm based on the numerical integration of stochastic dynamics.
 	
 References:
 
